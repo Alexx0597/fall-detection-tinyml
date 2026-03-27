@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "data"
+		},
+		{
+			"path": "docs"
+		},
+		{
+			"path": "firmware"
+		},
+		{
+			"path": "results"
+		},
+		{
+			"path": "scripts"
+		}
+	],
+	"settings": {
+		"stm32cube-ide-clangd.path": "cube"
+	}
+}
