@@ -24,9 +24,7 @@ Thumbs.db
 *.bak
 
 # Data exports
-data/*.csv
-data/*.txt
-data/*.bin
+data/
 
 # Large generated files
 results/*.png
