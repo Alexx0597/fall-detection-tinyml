@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# OS / misc
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Data exports
+data/raw/*.csv
+data/raw/*.txt
+data/raw/*.bin
+
+# Large generated files
+results/*.png
+results/*.jpg
+results/*.pdf
+
+# Edge Impulse / archives
+*.zip
+*.eim
