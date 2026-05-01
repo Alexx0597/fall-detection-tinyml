@@ -34,3 +34,6 @@ results/*.pdf
 # Edge Impulse / archives
 *.zip
 *.eim
+
+# Metadata ST
+.metadata/
