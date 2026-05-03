@@ -6,8 +6,8 @@ Prototype de détection de chute embarquée sur microcontrôleur.
 Développer un démonstrateur TinyML capable de détecter une chute à partir de données inertielle (accéléromètre + gyroscope), avec exécution locale sur microcontrôleur.
 
 ## Cible matérielle
-- Arduino Nano 33 BLE Rev2
-- Évolution prévue : STM32F411
+- Arduino Nano 33 BLE Rev2 - Fait
+- STM32F411 - En cours
 
 ## Environnement de développement
 - Fedora KDE 43
